@@ -1,0 +1,1 @@
+chrome-extension://dakjaeligofcdjlcoifkiappabgladep/content/content.min.js
